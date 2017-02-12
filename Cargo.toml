@@ -1,0 +1,8 @@
+[package]
+name = "sierpinski"
+version = "0.1.0"
+authors = ["David Sanders <davesque@gmail.com>"]
+
+[dependencies]
+image = "*"
+rand = "*"
